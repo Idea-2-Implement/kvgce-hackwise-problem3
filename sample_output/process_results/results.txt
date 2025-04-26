@@ -3,50 +3,50 @@
 Distance Metric: Euclidean
 Fuel Cost: 1232.78
 Path: 1 8 7 6 4 5 9 3 2 1
-TSP Time: 0.0110 seconds
+TSP Time: 0.0090 seconds
 
 Distance Metric: Minkowski (p=1.0)
 Fuel Cost: 1700.00
 Path: 1 8 7 6 4 5 9 3 2 1
-TSP Time: 0.0100 seconds
+TSP Time: 0.0189 seconds
 
 Distance Metric: Minkowski (p=3.0)
 Fuel Cost: 1129.89
 Path: 1 8 7 6 4 3 9 5 2 1
-TSP Time: 0.0100 seconds
+TSP Time: 0.0164 seconds
 
 Distance Metric: Minkowski (p=4.0)
 Fuel Cost: 1088.11
 Path: 1 8 7 6 4 5 9 3 2 1
-TSP Time: 0.0120 seconds
+TSP Time: 0.0139 seconds
 
 Distance Metric: Minkowski (p=6.0)
 Fuel Cost: 1053.46
 Path: 1 8 7 6 4 5 9 3 2 1
-TSP Time: 0.0110 seconds
+TSP Time: 0.0148 seconds
 
 Distance Metric: Minkowski (p=8.0)
 Fuel Cost: 1038.69
 Path: 1 8 7 6 4 3 9 5 2 1
-TSP Time: 0.0091 seconds
+TSP Time: 0.0145 seconds
 
 Distance Metric: Minkowski (p=10.0)
 Fuel Cost: 1030.44
 Path: 1 8 7 6 4 3 9 5 2 1
-TSP Time: 0.0139 seconds
+TSP Time: 0.0101 seconds
 
 Distance Metric: Minkowski (p=20.0)
 Fuel Cost: 1014.82
 Path: 1 8 7 6 4 5 9 3 2 1
-TSP Time: 0.0090 seconds
+TSP Time: 0.0140 seconds
 
 Distance Metric: Minkowski (p=50.0)
 Fuel Cost: 1005.84
 Path: 1 8 7 6 4 5 9 3 2 1
-TSP Time: 0.0080 seconds
+TSP Time: 0.0120 seconds
 
 Distance Metric: Minkowski (p=100.0)
 Fuel Cost: 1002.90
 Path: 1 8 7 6 4 3 9 5 2 1
-TSP Time: 0.0130 seconds
+TSP Time: 0.0126 seconds
 
